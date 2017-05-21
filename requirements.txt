@@ -1,0 +1,11 @@
+﻿requests>=1.0.4
+lxml
+html5lib
+beautifulsoup
+scrapy
+selenium
+numpy
+pandas
+sklearn
+pandas-datareader
+python-linkedin
