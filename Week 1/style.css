@@ -1,0 +1,55 @@
+/*p#loremparagraph{
+	color: red;
+}*/
+
+ul#hobbies{
+	color:red;
+	font-size: 60px;
+}
+body{
+	background: lightblue;
+}
+div{
+	border: 16px solid;
+	color:green;
+}
+div:hover{
+	background-color: #f4ad42;
+	color: white;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+.my_class{
+	color: orange;
+}
+#my_id{
+	color: brown;
+}
+
+
+/********************************************
+*********************************************
+*************THIS IS A COMMENT***************
+The code below was added after the lecture.
+The first part adds a solid black narrow 
+border to the table and also specifies
+the distance of the table text from the
+border (padding).
+
+The second part just speifies that this
+table's borders should collapse with
+each other. Just delete that one argument
+and you will experience the effect.
+*********************************************
+*********************************************
+********************************************/
+
+
+td,th {
+	padding: 20px;
+	border: 1px solid black;
+}
+
+table{
+	border-collapse: collapse;
+}
