@@ -9,7 +9,7 @@ During the course students will learn and use several tools necessary for comple
 - [Selector Gadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb?hl=en) - A google chrome extension that helps to easily discover CSS selectors for the elements on the webpage.
 - [JSON formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) - A google chrome extension which makes the JSON representation indented and highlighted (when viewed directly inside the browser).
 - [Regex search](https://chrome.google.com/webstore/detail/regex-search/bcdabfmndggphffkchfdcekcokmbnkjl) - Another chrome extension which provides the opportunity of running a search on the webpage using regular extensions directly inside the borwser.
-- [Online refex tester](https://regex101.com/) - an online tool for testing a regular expression on a sample text typed by the user. Also provides quick reference sheet and interactive explanation of the expression being tested.
+- [Online regex tester](https://regex101.com/) - an online tool for testing a regular expression on a sample text typed by the user. Also provides quick reference sheet and interactive explanation of the expression being tested.
 - [Anaconda Python 2.7](https://www.continuum.io/downloads) - Python powered open data science platform, which comes toegther with Jupyter notebooks, Spider IDE and some of the most popular Python libraries preinstalled. During the course several python packages will be used. The list of packages (including thsoe preinstalled by Anaconda) is available below.
 
 ## Required packages
