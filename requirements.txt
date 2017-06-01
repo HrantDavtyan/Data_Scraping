@@ -9,3 +9,4 @@ pandas
 sklearn
 pandas-datareader
 python-linkedin
+markovbot
