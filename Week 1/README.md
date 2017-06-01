@@ -15,7 +15,7 @@ Develop and style your own website using HTML and CSS, which should at least inc
 - An ordered or unordered list (of hobbies, skills, extra-curriculum activities or anything else related),
   which should be inside a <div> tag with class="my_list" argument (or similar),
 - A table (not necessarily with visible borders, can be used to structure the overall content of the website),
-- A button (next/submit or anything else related), which will navigate to another page created by you once clicked.
+- A button (next/submit or else related), which will navigate to another page created by you once clicked.
 
 Each point above is worth one mark. The overall homework is worth 5 marks (and 5% of final grade). It should
 solely be your own work typed from scratch. Although you are encouraged to look through the files created in 
