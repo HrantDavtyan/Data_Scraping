@@ -29,5 +29,5 @@ Each point above is worth one mark. The overall homework is worth 5 marks (and 5
 You are encouraged to look trough the classroom materials, discuss with other students, yet your submission
 should solely be your own work.
 
-Anything additional is highly welcomed (yet, being highly welcomed does not generate additional points on homework).
+Anything additional is highly welcomed (yet being highly welcomed doesn't generate additional points on homework).
 ```
