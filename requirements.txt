@@ -7,6 +7,7 @@ selenium
 numpy
 pandas
 sklearn
+statsmodels
 pandas-datareader
 python-linkedin
 markovbot
