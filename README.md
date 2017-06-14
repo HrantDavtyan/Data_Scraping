@@ -14,6 +14,7 @@ During the course students will learn and use several tools necessary for comple
 
 ## Required packages
 - requests
+- re
 - lxml
 - html5lib
 - beautifulsoup
