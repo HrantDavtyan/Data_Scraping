@@ -27,7 +27,7 @@ During the course students will learn and use several tools necessary for comple
 - python-linkedin
 - markovbot
  
-*The packages **json**, **csv**, and **urllib2** are also required, yet they come preinstalled with Python 2.7.*
+*The packages **json**, **csv**, **time** and **urllib2** are also required, yet they come preinstalled with Python 2.7.*
 
 ## Installation 
 To install the above provided packages please download requirements.txt to your local directory and run the following command in the command prompt:
