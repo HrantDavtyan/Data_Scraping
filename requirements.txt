@@ -11,3 +11,4 @@ statsmodels
 pandas-datareader
 python-linkedin
 markovbot
+re
