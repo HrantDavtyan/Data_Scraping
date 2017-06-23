@@ -27,6 +27,7 @@ During the course students will learn and use several tools necessary for comple
 - pandas-datareader
 - python-linkedin
 - markovbot
+- googlemaps
  
 *The packages **json**, **csv**, **time** and **urllib2** are also required, yet they come preinstalled with Python 2.7.*
 
