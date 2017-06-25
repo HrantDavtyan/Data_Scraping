@@ -6,4 +6,4 @@ This folder includes materials covered during the 4th week of the course (2 lect
 
 **Homework**
 
-**TBD**
+No homework was provided for the this week, as it was followed by a midterm exam (the paper available in Week 5 folder).
