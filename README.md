@@ -40,4 +40,3 @@ To install the above provided packages please download requirements.txt to your 
 ```
 pip install -r requirements.txt
 ```
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
