@@ -13,7 +13,8 @@ This folder includes materials covered during the 6th week of the course (2 lect
    The necessary data includes:
     - question,
     - URL.
-2) Use Scrapy to get the top 250 IMDB movie data from this URL. The necessary data includes:
+2) Use Scrapy to get the top 250 IMDB movie data from this URL. The URL:http://www.imdb.com/chart/top
+   The necessary data includes:
 
     - movie rank,
     - title,
