@@ -8,4 +8,19 @@ This folder includes materials covered during the 7th week of the course (2 lect
 
 **Homework**
 
-**TBD**
+```
+1) Use Quandl API to get and plot (on the same graph) the Terms of Trade for Armenia and Luxembourg from the 
+   World Bank database.
+
+2) Calculate the 2nd highest value for the above mentioned database, for Armenia.
+
+3) Draw the Net exports graph for Armenia based on the Merchandise Exports and Import for Armenia from the 
+   World Trade Organization database on Quandl.
+
+4) Draw the correlation matrix between arbitrary 3 stocks using the End of day stock prices database on Quandl.
+
+5) Create a list of 10 cities. Use google maps API to calculate (inside a for or while loop) the distance of each
+   of those cities from New York (in km-s).
+
+Anything additional (e.g. time series analysis, graph customization) is highly encouraged.
+```
