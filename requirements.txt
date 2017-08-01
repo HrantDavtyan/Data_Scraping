@@ -1,4 +1,5 @@
-﻿requests>=1.0.4
+requests>=1.0.4
+re
 lxml
 html5lib
 beautifulsoup
@@ -8,7 +9,9 @@ numpy
 pandas
 sklearn
 statsmodels
-pandas-datareader
-python-linkedin
+pandas_datareader
 markovbot
-re
+googlemaps
+pafy
+quandl
+python-linkedin
