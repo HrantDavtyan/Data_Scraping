@@ -25,12 +25,12 @@ During the course students will learn and use several tools necessary for comple
 - pandas
 - sklearn
 - statsmodels
-- pandas-datareader
+- pandas_datareader
 - python-linkedin
 - markovbot
 - googlemaps
 - pafy
-- Quandl
+- quandl
  
 *The packages **json**, **csv**, **time** and **urllib2** are also required, yet they come preinstalled with Python 2.7.*
 
